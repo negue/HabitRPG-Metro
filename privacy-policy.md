@@ -9,7 +9,7 @@ HabitRPG Metro doesn't collect or publish any personal information of a device.
 
 ## How does HabitRPG Metro store my saved settings?
 
-The Account Data and a cached version of the member data is saved on the Local app storage, which won't be transferred to other devices using the same Microsoft Account.
+The Account Data and a cached version of the member data is saved on the Roaming app storage, which will be transferred to other devices using the same Microsoft Account.
 
 ## Does HabitRPG Metro uses any 3rd-Party Services?
 
