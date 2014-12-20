@@ -2,7 +2,23 @@
 
 #### Every Update has Bugfixes
 
-### V 1.2.0.0
+### V 1.2.2.0
+- (feat) In-App Notifications redesigned & available on Phone
+- (feat) "Toggle Inn" (Sleep Mode)
+- (feat) Change the Task-Difficulty
+- (feat) Phone - Transparent Start-Tile
+- (info) Started the Translation to German, still a lot to translate :P
+
+V 1.2.1.1
+- (fix) parsing a "bad date format" 
+
+V 1.2.1.0
+- (fix) many UI fixes, if you find any please report
+- (feat) Offline Read-Only Mode
+- (feat) Change Mounts
+- (feat) show Character Attributes (Windows only... yet)
+
+V 1.2.0.0
 - (feat) Added Number of not finished dailies to the Livetile
 - (feat) Get you UserID / ApiKey using your Username / Password
 - (fix) Now also Special and Quest Pets can be selected

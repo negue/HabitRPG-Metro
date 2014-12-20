@@ -15,13 +15,16 @@ Join the [HabitRPG Metro Guild](https://habitrpg.com/#/options/groups/guilds/e3d
 - [X] Filter by Tags
 - [X] Add / Remove Tags and assign them to Tasks
 - [X] Manage your Habits / Dailies / Todos and Rewards
-- [X] Change your Equipment & Pets
+- [X] Change your Equipment, Pets & Mounts
 - [X] Multiple Accounts, Custom ServerUrl 
+- [X] Toggle Sleep Mode
+- [X] Phone Version
+  - [X] Transparent Tiles
+  - [X] In-App Notifications
 - [ ] Offline Mode
-  - [ ] Part 1 - Read Only Mode
+  - [X] Part 1 - Read Only Mode
   - [ ] Part 2 - Sync Offline Changes
 - [ ] Change Avatar Settings
-- [ ] Change Mounts
 - [ ] List Tasks by Tags
 - [ ] Change the Background Color & Image
 - [ ] Chat! & PMs
