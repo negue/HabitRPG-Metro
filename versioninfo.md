@@ -1,38 +1,39 @@
-# Version Info
-
 #### Every Update has Bugfixes
 
-### V 1.2.2.0
-- (feat) In-App Notifications redesigned & available on Phone
+### V 1.2.3.0
+- (feat) full German Translation
+- (fix) some Performance Issues
+
+#### V 1.2.2.0
+- (feat) In-App Notifications redesigned
 - (feat) "Toggle Inn" (Sleep Mode)
 - (feat) Change the Task-Difficulty
-- (feat) Phone - Transparent Start-Tile
 - (info) Started the Translation to German, still a lot to translate :P
 
-V 1.2.1.1
+#### V 1.2.1.1
 - (fix) parsing a "bad date format" 
 
-V 1.2.1.0
+#### V 1.2.1.0
 - (fix) many UI fixes, if you find any please report
 - (feat) Offline Read-Only Mode
 - (feat) Change Mounts
 - (feat) show Character Attributes (Windows only... yet)
 
-V 1.2.0.0
+#### V 1.2.0.0
 - (feat) Added Number of not finished dailies to the Livetile
 - (feat) Get you UserID / ApiKey using your Username / Password
 - (fix) Now also Special and Quest Pets can be selected
 - (info) The Configured Accounts are now synced across your Devices
 
-V 1.1.3.0
+#### V 1.1.3.0
 - (info) Moved Accountsettings to a Settingsflyout
 - (info) Started work on Phone Version :)
 
-V 1.1.2.0
+#### V 1.1.2.0
 - (info) Updated the Equipment Inventory
 - (feat) Show and select your Pets
 
-V 1.1.0.0
+#### V 1.1.0.0
 - (feat) Multiple Accounts
 - (feat) Custom Server Url
 - (feat) Set an in-app Password
@@ -40,10 +41,10 @@ V 1.1.0.0
 - (feat) Now you can also buy Gear Rewards (with Gold)
 - (info) Added an Online / Offline Indicator
 
-V 1.0.2.0
+#### V 1.0.2.0
 - (fix) save account fix - #1
 
-V 1.0.1.0
+#### V 1.0.1.0
 - (info) show new version info once on startup
 - (info) If you couldn't login with your UserID & ApiKey, now there are some more "error" explanations
 - (feat) List in-app notfications, if you missed any :)
@@ -51,5 +52,5 @@ V 1.0.1.0
 - (feat) Change and show Due-Date on Todos
 - (feat) Split Dailies (Done / Yet to do)
 
-V 1.0.0.0
+#### V 1.0.0.0
 - first version
