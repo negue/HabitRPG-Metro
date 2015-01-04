@@ -7,10 +7,9 @@ Join the [HabitRPG Metro Guild](https://habitrpg.com/#/options/groups/guilds/e3d
 
 [![](https://raw.githubusercontent.com/negue/HabitRPG-Metro/master/WindowsStore_badge_258x67.png)](http://apps.microsoft.com/windows/app/habitrpg-metro/bf3088cd-701c-4b2e-a765-7ee3adc30171)
 
-![](https://raw.githubusercontent.com/negue/HabitRPG-Metro/master/qrcodes/phoneqr.png)
-
 [![](https://raw.githubusercontent.com/negue/HabitRPG-Metro/master/258x67_WPS_Download_cyan.png)](http://www.windowsphone.com/en-us/store/app/habitrpg-metro/16136b45-3188-4c93-b6f1-da0b9e23ba4f)
 
+![](https://raw.githubusercontent.com/negue/HabitRPG-Metro/master/qrcodes/phoneqr.png)
 
 ### Features / Roadmap
 - [X] Search Tasks by Name
