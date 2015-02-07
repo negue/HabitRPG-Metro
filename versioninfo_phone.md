@@ -1,6 +1,18 @@
 #### Every Update has Bugfixes
 
-### V 1.2.3.0
+### V 1.2.5.0
+- (feat) Hatch Eggs
+
+#### V 1.2.4.0
+- (feat) "Url"-Button, inside Task-Tiles
+- (feat) Tasks are now edited in an own View instead in a popup
+- (feat) You can now exit the App if you press the Back Button in your Task Overview [Settings]
+- (fix) Changing a duedate now opens the normal DatePicker
+- (fix) The Avatar gets updated after changing your Gear
+- (info) Gear-Rewards are now together with your custom rewards 
+- (info) Native-build Avatar, which should fix the Web-based Avatar flicker
+
+#### V 1.2.3.0
 - (feat) full German Translation
 - (feat) Switch to FlipView instead of ListView in the Task Overview
 - (feat) Show a smaller Header
