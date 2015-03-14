@@ -1,6 +1,9 @@
 #### Every Update has Bugfixes
 
-### V 1.2.5.0
+### V 1.3.0.0
+- (ui) improved look&feel of the tiles
+
+#### V 1.2.5.0
 - (feat) Hatch Eggs
 - (feat) Task Overview as 2x2 Grid 
 
