@@ -1,6 +1,11 @@
 #### Every Update has Bugfixes
 
-### V 1.3.0.0
+### V 1.3.1.0
+- (feat) Cortana Commands! (See Help for Commands)
+- (feat) Change the order of the task lists
+- (ui) Descriptions are now auto-hidden (with button to show them)
+
+#### V 1.3.0.0
 - (ui) improved look&feel of the tiles
 - (ui) Now with a Sidebar :)
 
