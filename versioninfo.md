@@ -1,6 +1,22 @@
 #### Every Update has Bugfixes
 
-### V 1.2.3.0
+### V 1.3.1.0
+- (feat) Change the order of the task lists
+- (ui) Descriptions are now auto-hidden (with button to show them)
+
+#### V 1.3.0.0
+- (ui) improved look&feel of the tiles
+
+#### V 1.2.5.0
+- (feat) Hatch Eggs
+- (feat) Task Overview as 2x2 Grid 
+
+#### V 1.2.4.0
+- (feat) "Url"-Button, inside Task-Tiles
+- (info) Gear-Rewards are now together with your custom rewards
+- (info) Native-build Avatar
+
+#### V 1.2.3.0
 - (feat) full German Translation
 - (fix) some Performance Issues
 
