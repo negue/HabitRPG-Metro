@@ -22,9 +22,10 @@ Join the [HabitRPG Metro Guild](https://habitrpg.com/#/options/groups/guilds/e3d
 - [X] Phone Version
   - [X] Transparent Tiles
   - [X] In-App Notifications
-- [ ] Offline Mode
+- [X] Offline Mode
   - [X] Part 1 - Read Only Mode
-  - [ ] Part 2 - Sync Offline Changes
+  - [X] Part 2 - Sync Offline Changes
+- [X] Cast Spells 
 - [ ] Change Avatar Settings
 - [ ] List Tasks by Tags
 - [ ] Change the Background Color & Image
