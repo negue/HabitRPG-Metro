@@ -1,6 +1,14 @@
 #### Every Update has Bugfixes
 
-### V 1.3.1.0
+### V 1.4.0.0
+- (feat) Offline Mode - Part 2! , now you can add / score tasks while your are offline
+- (feat) Cast Spells :)
+- (feat) Show Avatar in Livetile
+- (feat) You can set a reminder, to check your dailies :)
+- (info) Refactored some code, so that it is hopefully faster for slower devices
+- (bug) fix Win10 crashes
+
+#### V 1.3.1.0
 - (feat) Change the order of the task lists
 - (ui) Descriptions are now auto-hidden (with button to show them)
 
