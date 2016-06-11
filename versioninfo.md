@@ -1,6 +1,20 @@
 #### Every Update has Bugfixes
 
-### V 1.4.0.0
+### V 1.5.0.0
+- (feat) Performance (App Start, Json-Parsing, XAML-Parsing, etc)
+- (feat) Avatar-Drawing V3
+- (feat) load & cache images (instead of part of the appx => smaller app-size)
+- (feat) Use APIv3-Calls
+- (feat) List known-issues at version history
+- (info) removed semantic zooms
+- (info) Setting to parse URLs (for each task)
+- (info) Setting for a daily login reminder
+- (info) Swiping Notifications now as a setting, because it crashes on some devices :(
+- (info) Tapping on a food drop, will now ask you if you want to visit Habitica
+- (info) Completed To-Dos are no longer loaded and visible 
+- (bug) fix crashes
+
+#### V 1.4.0.0
 - (feat) Offline Mode - Part 2! , now you can add / score tasks while your are offline
 - (feat) Cast Spells :)
 - (feat) Show Avatar in Livetile
